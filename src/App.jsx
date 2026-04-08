@@ -258,7 +258,7 @@ export default function App() {
         <div className="case-card reveal delay-2">
           <div>
             <span className="case-tag">AI Team</span>
-            <h3>Dashboards, Landing Pages & Cloud Deployments</h3>
+            <h3>Full Stack for AI Team</h3>
             <p>Built dashboards and systems for the AI team, designed landing pages, and owned the cloud + deployment pipeline for AI services.</p>
           </div>
           <div className="case-outcomes">
